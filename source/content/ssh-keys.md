@@ -1,4 +1,4 @@
----
+ssh-keygen -t rsa -b 4096 -C "sand0431@example.com"
 title: Generate and Add SSH Keys
 description: Understand how to generate SSH keys to configure Git, SFTP, or Drupal Drush.
 tags: [security, dashboard, ssh]
